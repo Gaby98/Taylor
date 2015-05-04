@@ -1,0 +1,52 @@
+@charset "utf-8";
+.miestilo1 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 18px;
+	color: #00F;
+	text-align: justify;
+}
+.miestilo1 {
+	font-family: candara;
+	color: #FFF;
+}
+#mifondo
+	{
+	background:#F9C;
+	width: auto;
+	height::100px;
+	margin: 30px 25px;
+	border:thick;
+	border-color:#00F;
+	opacity: 0.8;
+	height: auto;
+	color:#F09;
+	}
+div.mifondo1
+{
+	width: auto;
+	height: auto;
+	background:url(Imagenes/tay.jpg);
+	border: 2px solid black;
+}
+.pie {
+	font-family: candara;
+	font-size: 14px;
+	font-style: italic;
+	color: #FFF;
+	text-align: center;
+}
+.h1 {
+	font-family: "Juice ITC", "Kristen ITC";
+	font-size: 12mm;
+	color: #000;
+	text-align: center;
+}
+.nor {
+	font-family: Verdana, Geneva, sans-serif;
+	color: #36F;
+}
+
+.h1 {
+	color: #FFF;
+	font-size: 18mm;
+}
